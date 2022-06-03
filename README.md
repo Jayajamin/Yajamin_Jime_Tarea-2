@@ -471,8 +471,9 @@ R=(P.salida=eficiencia)(P.entrada)
 Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudó mucho a reforzar y complementar la ley de OHM donde se tuvo mas claro la relación entre la corriente, el voltaje y la resistencia también se logró concluir que la corriente fluye por un circuito donde la cantidad de corriente que fluye por el mismo es directamente proporcional a la fuerza aplicada.
 
 Bibliografía
+
 •	Castellanos, Dorial y Méndez, Rubén. (1997); “Manual de Laboratorio de Física Parte II Magnetismo y Física Moderna”. Orlando, Florida; Harcourt Brace College Publishers Company.
 
-Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos.
+•	Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos.
 
 •	Serway, Raymond A. (1998); “Principles of Physics Second Edition”. United States, New York: Harcourt College Publishers.
