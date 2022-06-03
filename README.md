@@ -1,5 +1,6 @@
 # Yajamin_Jime_Tarea-2
 1.	OBJETIVOS
+
 Identificar y hacer análisis de los fenómenos eléctricos. Estableciendo las diferencias entre la electricidad estática y la corriente eléctrica. Entendiendo la estructura del átomo y las fuerzas entre sus partículas.
 Con esto lograr relacionar estas magnitudes entre sí, permitiendo la resolución de problemas numéricos sencillos para el buen desarrollo de la materia, se desarrolló la lectura y comprensión del libro Floyd donde se complementó y reforzo temas vistos en clase para una mejor ejecución del presente informe.
 
@@ -243,10 +244,235 @@ R= V / IR= 6 V / 2 * 10-3 A
 
 17.	Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
 SECCIÓN 3–5 Introducción a la localización de fallas
+
 ![image](https://user-images.githubusercontent.com/106272493/171775793-b371d85d-e7a3-4f41-9bae-686135b84c91.png)
 
 18.	En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
 ![image](https://user-images.githubusercontent.com/106272493/171775551-bcd8b99b-2fbf-4198-86e2-a1898da023e6.png)
 
 R= EL foco fundido seria el Foco #4
+
+ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
  
+AUTOEVALUACIÓN
+
+1.	Si se consumen doscientos joules de energía en 10 s. La potencia es
+
+(a) 2000 W                (b) 10 W
+
+(c) (R=20 W)                  (d) 2 W
+
+2.	En 50 kW, hay 
+
+(a) 500 W                (b) 5000 W
+
+ (c) 0.5 MW             (d) (R=50,000 W)
+ 
+3.	Con 10 V y 50 mA, la potencia es ç
+
+(a) 500 mW             (b) 0.5 W 
+
+(c) 500,000              (d) (R=respuestas (a), (b) y (c))
+
+
+4.	Un resistor de 2.2 kÆ disipa 0.5 W. La corriente es
+
+(a) (R=15.1 mA)             (b) 0.227 mA 
+
+(c) 1.1 mA                (d) 4.4 mA
+
+5.	Si utiliza 500 W de potencia durante 24 h, ha utilizado 
+
+(a) 0.5 kWh (b) 2400 kWh 
+
+(c) 12,000 kWh (d) (R=12 kWh)
+
+6.	Un resistor de 100 Æ debe transportar una corriente máxima de 35 mA. Su capacidad deberá ser de por lo menos
+
+(a) 35 W (b) 35 mW 
+
+(c) (R=123 mW) (d) 3500 mW
+
+7.	Un resistor de 22 Æ y medio watt y un resistor de 220 Æ y medio watt se conectan a través de una fuente de 10 V. ¿Cuál o cuáles resistores se sobrecalentarán?
+
+(a)(R=22 Ω)                 (b)220 Ω
+
+(c) ambos              (d) ninguno
+
+8.	Se conecta una batería de 12 V a una carga de 600 Æ. En estas condiciones, su capacidad es de 50 Ah.¿Cuánto tiempo puede suministrar corriente a la carga?
+
+(a) (R=2500 h) (b) 50 h
+
+ (c) 25 h (d) 4.16 h
+ 
+9.	Una fuente de potencia produce una salida de 0.5 W con una entrada de 0.6 W. Su porcentaje de eficiencia es
+
+(a) 50% (b) 60%
+
+(c) (R=83.3%) (d) 45%
+
+EXAMEN RÁPIDO
+DE DINÁMICA
+DE CIRCUITOS
+
+1.	Si el voltaje a través de un resistor fijo cambia de 10 V a 7 V, la potencia en el resistor
+
+(a)	se incrementa (b) (R=disminuye) (c) no cambia
+
+2.	Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente aumenta de 1 mA a 2 mA,la potencia
+
+(a)	(R=se incrementa) (b) disminuye (c) no cambia
+
+3.	Si la cantidad de tiempo que una batería suministra corriente a una carga disminuye, su capacidad de amperes-hora.
+
+(a)	se incrementa (b) disminuye (c) (R=no cambia)
+
+4.	Si no hay una carga conectada a una batería, su capacidad de amperes-hora
+
+(a)	se incrementa (b) disminuye (c) (R=no cambia)
+
+Consulte la figura 4-11
+
+5.	Con un voltaje constante de salida, si la corriente suministrada a la carga disminuye, la potencia suministrada a la carga
+
+(a) se incrementa (b) (R=disminuye) (c) no cambia
+
+6.	Si la carga se retira del circuito y deja una apertura, idealmente el voltaje de salida de la fuente de potencia
+
+(a) se incrementa (b) disminuye (c) (R=no cambia)
+
+SECCIÓN 4–1 Energía y potencia
+
+1.	Demuestre que hay 3.6  106 joules en un kilowatt-hora.
+
+R=1kwH=(1000J/s)(3600s)=3.6x106 J
+
+2.	¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+R=7500J/(5h)(3600s)
+
+7500J/18000s=471mW
+
+3.	Convierta las siguientes cantidades en kilowatts:
+
+(a) 1000 W R=1kW
+
+(b) 3750 W R=3.75kW
+
+ (c) 160 W R=0.160kW
+ 
+ (d) 50,000 W R= 50kW
+ 
+4.	Convierta las siguientes cantidades en miliwatts:
+
+(a) 1 W   R=1000mW
+
+(b) 0.4 W   R=400mW
+
+(c) 0.002 W  R=2mW
+
+(d) 0.0125 W  R=12.5mW
+
+5.	Convierta las siguientes cantidades en watts:
+
+(a) 1.5 kW  R=1500W
+
+(b) 0.5 MW   R=500.000W
+
+(c) 350 mW   R=0.350W
+
+(d) 9000Uw   R=0.009W
+
+6.	Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+R=La energía consumida es 100 W . 0,5 horas = 50 Wh = 0,050 kWh
+
+Costo = 0,050 kWh . 0,30$ / kWh = 0,015$
+
+7.	Convierta 5  106 watts-minutos en kWh.
+
+R= 5x106 W-min=5x103kWmin
+
+     (5x103kWmin)(1h/60min)=83.3kWh
+
+8.	¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+R=(W=Pt)
+
+P=I2R=(5A)6(47 Ω)=1175W
+
+T=W/P=25j/1175W=21.3ms
+
+SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+9.	Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+R= VI=(5.5V)(3Ma)=16.5mW
+
+10.	¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4?7 kÆ?
+
+R=I2R=(500mA)2(4.7k Ω)=1.175kW
+
+11.	Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+R=(P=V2/R)=60v2/680 Ω =5.29W
+
+12.	Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+R=(R=P/I2)
+
+R=100W/(2A)2=25 Ω
+
+SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+13.	Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+R= (P=I2.R)
+
+(100mA)2(6.8k Ω) =0.68w
+
+SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
+
+14.	En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+ ![image](https://user-images.githubusercontent.com/106272493/171777195-d27f12c4-cd30-408e-a248-4108488ef18e.png)
+
+ ![image](https://user-images.githubusercontent.com/106272493/171777210-da04712b-1df6-4aeb-8b59-3f3030b2eb5f.png)
+
+SECCIÓN 4–5 Fuentes de potencia
+
+15.	Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horasen una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+R=(P=V2/R)
+
+(1.25)2/10 Ω=156Mw
+
+16.	Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+R=(amperes-hora)
+
+(1.5A)(24H)=36Ah
+
+17.	Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+I=650mAh/48h=13.5mA
+
+18.	Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+R=(P.salida=eficiencia)(P.entrada)
+
+(0.85)(5W)=4.25W
+
+5. VIDEO
+
+
+6. CONCLUSIONES
+
+Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudó mucho a reforzar y complementar la ley de OHM donde se tuvo mas claro la relación entre la corriente, el voltaje y la resistencia también se logró concluir que la corriente fluye por un circuito donde la cantidad de corriente que fluye por el mismo es directamente proporcional a la fuerza aplicada.
+
+Bibliografía
+•	Castellanos, Dorial y Méndez, Rubén. (1997); “Manual de Laboratorio de Física Parte II Magnetismo y Física Moderna”. Orlando, Florida; Harcourt Brace College Publishers Company.
+
+Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos.
+
+•	Serway, Raymond A. (1998); “Principles of Physics Second Edition”. United States, New York: Harcourt College Publishers.
